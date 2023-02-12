@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_textView">32dp</dimen>
+    <dimen name="paddingVertical">6dp</dimen>
+    <dimen name="marginHorizontal">18dp</dimen>
+    <dimen name="marginEnd">18dp</dimen>
+    <dimen name="width">178dp</dimen>
+    <dimen name="paddingStart">32dp</dimen>
+</resources>
